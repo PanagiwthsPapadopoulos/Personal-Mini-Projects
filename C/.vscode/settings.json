@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ratio": "c"
+    },
+    "cSpell.enableFiletypes": [
+        "c"
+    ],
+    "cSpell.language": "en,el"
+}
