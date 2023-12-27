@@ -1,5 +1,8 @@
-*/C
-!*C.c 
-!*C.txt
-
-*DS_Store
+*.*
+!*.c 
+!*.txt
+!*.cpp
+!*.java
+!*.py
+!*.class
+!*.ino
