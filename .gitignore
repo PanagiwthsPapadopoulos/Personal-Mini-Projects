@@ -1,9 +1,8 @@
-*.*
-!*.c 
-!*.txt
-!*.cpp
-!*.java
-!*.py
-!*.class
-!*.ino
-!.gitignore
+
+.DS_Store
+
+
+.classpath
+.project
+.settings/
+.vscode/
